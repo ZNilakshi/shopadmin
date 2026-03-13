@@ -1,7 +1,48 @@
 # ShopAdmin — Product Inventory Panel
 
 A beautiful, secure, and fully functional CRUD application for product inventory management.
+![Login](assets/login.png)
 
+### Create Account
+![Create Account](assets/createaccount.png)
+
+### Admin Dashboard
+![Admin Dashboard](assets/admindashboard.png)
+
+![Admin Dashboard 2](assets/admindashboard2.png)
+
+### User Dashboard
+![User Dashboard](assets/userdashboard.png)
+
+### Product Management
+![Add Products](assets/addproducts.png)
+
+![Products](assets/products.png)
+
+### Image Upload
+![Add Images](assets/addimages.png)
+
+### Profile Management
+![Profile Details](assets/profiledetails.png)
+
+![Update Profile](assets/profileupdate.png)
+
+### Pricing Page
+![Pricing](assets/pricing.png)
+
+### PDF Export
+![PDF](assets/pdf.png)
+
+### Dark Mode
+![Dark Mode](assets/darkmode.png)
+
+### Mobile Responsive Dashboard
+
+![Mobile Dashboard](assets/mobileresponsivedashboard.png)
+
+![Mobile Dashboard 2](assets/mobileresponsivedashboard2.png)
+
+![Mobile Dashboard 3](assets/mobileresponsivedashboard3.png)
 ## 🔑 Default Login Credentials
 
 | Role  | Email              | Password |
